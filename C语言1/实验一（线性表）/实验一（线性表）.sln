@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实验一（线性表）", "实验一（线性表）\实验一（线性表）.vcproj", "{CF3CAE28-2956-4B5C-AAD4-68321824300B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_11_29_1", "..\test_11_29_1\test_11_29_1\test_11_29_1.vcproj", "{14BA1AA2-4AE4-42F9-BA07-70764E4C69F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3CAE28-2956-4B5C-AAD4-68321824300B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF3CAE28-2956-4B5C-AAD4-68321824300B}.Debug|Win32.Build.0 = Debug|Win32
+		{CF3CAE28-2956-4B5C-AAD4-68321824300B}.Release|Win32.ActiveCfg = Release|Win32
+		{CF3CAE28-2956-4B5C-AAD4-68321824300B}.Release|Win32.Build.0 = Release|Win32
+		{14BA1AA2-4AE4-42F9-BA07-70764E4C69F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14BA1AA2-4AE4-42F9-BA07-70764E4C69F1}.Debug|Win32.Build.0 = Debug|Win32
+		{14BA1AA2-4AE4-42F9-BA07-70764E4C69F1}.Release|Win32.ActiveCfg = Release|Win32
+		{14BA1AA2-4AE4-42F9-BA07-70764E4C69F1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
