@@ -1,0 +1,7 @@
+[2019-03-26 13:15:45] [info]  [10132] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-03-26 13:15:45] [info]  [10132] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2019-03-26 13:15:45] [error] [10132] 指定的服务已存在。
+[2019-03-26 13:15:45] [error] [10132] Failed installing 'Tomcat9' service
+[2019-03-26 13:15:45] [error] [10132] 指定的服务已存在。
+[2019-03-26 13:15:45] [error] [10132] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2019-03-26 13:15:45] [error] [10132] 指定的服务已存在。

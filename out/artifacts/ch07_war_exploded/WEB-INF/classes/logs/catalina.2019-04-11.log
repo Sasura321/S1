@@ -1,0 +1,244 @@
+11-Apr-2019 21:15:25.213 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.2
+11-Apr-2019 21:15:25.219 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 25 2017 21:08:02 UTC
+11-Apr-2019 21:15:25.225 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.2.0
+11-Apr-2019 21:15:25.225 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+11-Apr-2019 21:15:25.226 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+11-Apr-2019 21:15:25.226 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+11-Apr-2019 21:15:25.228 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_201\jre
+11-Apr-2019 21:15:25.229 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_201-b09
+11-Apr-2019 21:15:25.229 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+11-Apr-2019 21:15:25.229 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Tomcat\apache-tomcat-9.0.2
+11-Apr-2019 21:15:25.229 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Tomcat\apache-tomcat-9.0.2
+11-Apr-2019 21:15:25.230 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Tomcat\apache-tomcat-9.0.2
+11-Apr-2019 21:15:25.230 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Tomcat\apache-tomcat-9.0.2
+11-Apr-2019 21:15:25.231 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=C:\Program Files\Tomcat\apache-tomcat-9.0.2\endorsed
+11-Apr-2019 21:15:25.231 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Tomcat\apache-tomcat-9.0.2\temp
+11-Apr-2019 21:15:25.232 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Apr-2019 21:15:25.232 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Tomcat\apache-tomcat-9.0.2\conf\logging.properties
+11-Apr-2019 21:15:25.233 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+11-Apr-2019 21:15:25.247 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+11-Apr-2019 21:15:25.247 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+11-Apr-2019 21:15:25.250 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+11-Apr-2019 21:15:25.250 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+11-Apr-2019 21:15:25.251 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+11-Apr-2019 21:15:25.252 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+11-Apr-2019 21:15:25.905 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+11-Apr-2019 21:15:26.050 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+11-Apr-2019 21:15:26.344 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+11-Apr-2019 21:15:26.354 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+11-Apr-2019 21:15:26.359 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+11-Apr-2019 21:15:26.363 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1533 ms
+11-Apr-2019 21:15:26.398 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-Apr-2019 21:15:26.399 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.2
+11-Apr-2019 21:15:26.434 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\jenkins.war]
+11-Apr-2019 21:15:31.325 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Apr-2019 21:16:27.140 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.2
+11-Apr-2019 21:16:27.148 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 25 2017 21:08:02 UTC
+11-Apr-2019 21:16:27.149 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.2.0
+11-Apr-2019 21:16:27.150 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+11-Apr-2019 21:16:27.150 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+11-Apr-2019 21:16:27.151 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+11-Apr-2019 21:16:27.154 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_201\jre
+11-Apr-2019 21:16:27.154 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_201-b09
+11-Apr-2019 21:16:27.155 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+11-Apr-2019 21:16:27.156 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Tomcat\apache-tomcat-9.0.2
+11-Apr-2019 21:16:27.156 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Tomcat\apache-tomcat-9.0.2
+11-Apr-2019 21:16:27.157 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Tomcat\apache-tomcat-9.0.2
+11-Apr-2019 21:16:27.158 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Tomcat\apache-tomcat-9.0.2
+11-Apr-2019 21:16:27.163 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=C:\Program Files\Tomcat\apache-tomcat-9.0.2\endorsed
+11-Apr-2019 21:16:27.163 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Tomcat\apache-tomcat-9.0.2\temp
+11-Apr-2019 21:16:27.164 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Apr-2019 21:16:27.164 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Tomcat\apache-tomcat-9.0.2\conf\logging.properties
+11-Apr-2019 21:16:27.166 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+11-Apr-2019 21:16:27.167 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+11-Apr-2019 21:16:27.168 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+11-Apr-2019 21:16:27.169 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+11-Apr-2019 21:16:27.169 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+11-Apr-2019 21:16:27.170 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+11-Apr-2019 21:16:27.176 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+11-Apr-2019 21:16:28.279 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+11-Apr-2019 21:16:28.483 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+11-Apr-2019 21:16:28.952 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+11-Apr-2019 21:16:28.964 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+11-Apr-2019 21:16:28.969 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+11-Apr-2019 21:16:28.969 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2473 ms
+11-Apr-2019 21:16:29.018 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-Apr-2019 21:16:29.019 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.2
+11-Apr-2019 21:16:29.062 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\jenkins.war]
+11-Apr-2019 21:16:34.161 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Apr-2019 21:16:35.251 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\jenkins.war] has finished in [6,188] ms
+11-Apr-2019 21:16:35.252 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\docs]
+11-Apr-2019 21:16:35.281 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\docs] has finished in [29] ms
+11-Apr-2019 21:16:35.282 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\examples]
+11-Apr-2019 21:16:35.852 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\examples] has finished in [570] ms
+11-Apr-2019 21:16:35.853 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\host-manager]
+11-Apr-2019 21:16:35.906 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\host-manager] has finished in [53] ms
+11-Apr-2019 21:16:35.908 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\manager]
+11-Apr-2019 21:16:35.937 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\manager] has finished in [29] ms
+11-Apr-2019 21:16:35.938 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\News]
+11-Apr-2019 21:16:35.975 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\News] has finished in [37] ms
+11-Apr-2019 21:16:35.976 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\ROOT]
+11-Apr-2019 21:16:36.000 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Tomcat\apache-tomcat-9.0.2\webapps\ROOT] has finished in [24] ms
+11-Apr-2019 21:16:36.004 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+11-Apr-2019 21:16:36.016 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+11-Apr-2019 21:16:36.022 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 7051 ms
+11-Apr-2019 21:16:37.394 信息 [pool-6-thread-2] jenkins.InitReactorRunner$1.onAttained Started initialization
+11-Apr-2019 21:16:38.176 信息 [pool-6-thread-2] jenkins.InitReactorRunner$1.onAttained Listed all plugins
+11-Apr-2019 21:16:47.283 信息 [pool-6-thread-9] jenkins.InitReactorRunner$1.onAttained Prepared all plugins
+11-Apr-2019 21:16:47.299 信息 [pool-6-thread-12] jenkins.InitReactorRunner$1.onAttained Started all plugins
+11-Apr-2019 21:16:48.026 信息 [GitSCM.onLoaded] hudson.ExtensionFinder$GuiceFinder$FaultTolerantScope$1.error Failed to instantiate optional component hudson.plugins.build_timeout.operations.AbortAndRestartOperation$DescriptorImpl; skipping
+11-Apr-2019 21:16:49.789 信息 [pool-6-thread-12] jenkins.InitReactorRunner$1.onAttained Augmented all extensions
+11-Apr-2019 21:16:49.986 信息 [pool-6-thread-1] jenkins.InitReactorRunner$1.onAttained Loaded all jobs
+11-Apr-2019 21:16:50.001 信息 [Download metadata thread] hudson.model.AsyncPeriodicWork$1.run Started Download metadata
+11-Apr-2019 21:16:50.050 信息 [Download metadata thread] hudson.util.Retrier.start Attempt #1 to do the action check updates server
+11-Apr-2019 21:16:50.893 信息 [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing org.springframework.web.context.support.StaticWebApplicationContext@556ebdc1: display name [Root WebApplicationContext]; startup date [Thu Apr 11 21:16:50 CST 2019]; root of context hierarchy
+11-Apr-2019 21:16:50.894 信息 [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory Bean factory for application context [org.springframework.web.context.support.StaticWebApplicationContext@556ebdc1]: org.springframework.beans.factory.support.DefaultListableBeanFactory@3ef42748
+11-Apr-2019 21:16:50.922 信息 [Finalizing set up] org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3ef42748: defining beans [authenticationManager]; root of factory hierarchy
+11-Apr-2019 21:16:51.288 信息 [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing org.springframework.web.context.support.StaticWebApplicationContext@320d11db: display name [Root WebApplicationContext]; startup date [Thu Apr 11 21:16:51 CST 2019]; root of context hierarchy
+11-Apr-2019 21:16:51.289 信息 [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory Bean factory for application context [org.springframework.web.context.support.StaticWebApplicationContext@320d11db]: org.springframework.beans.factory.support.DefaultListableBeanFactory@131a48a6
+11-Apr-2019 21:16:51.290 信息 [Finalizing set up] org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@131a48a6: defining beans [filter,legacy]; root of factory hierarchy
+11-Apr-2019 21:16:51.417 信息 [pool-6-thread-14] jenkins.InitReactorRunner$1.onAttained Completed initialization
+11-Apr-2019 21:16:51.463 信息 [Jenkins initialization thread] hudson.WebAppMain$3.run Jenkins is fully up and running
+11-Apr-2019 21:17:35.895 信息 [Download metadata thread] hudson.model.UpdateSite.updateData Obtained the latest update center data file for UpdateSource default
+11-Apr-2019 21:17:37.796 信息 [Download metadata thread] hudson.model.DownloadService$Downloadable.load Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+11-Apr-2019 21:17:38.327 信息 [Download metadata thread] hudson.model.DownloadService$Downloadable.load Obtained the updated data file for hudson.tasks.Ant.AntInstaller
+11-Apr-2019 21:17:39.202 信息 [Download metadata thread] hudson.model.DownloadService$Downloadable.load Obtained the updated data file for hudson.plugins.gradle.GradleInstaller
+11-Apr-2019 21:17:44.490 信息 [Download metadata thread] hudson.model.DownloadService$Downloadable.load Obtained the updated data file for hudson.tools.JDKInstaller
+11-Apr-2019 21:17:44.491 信息 [Download metadata thread] hudson.util.Retrier.start Performed the action check updates server successfully at the attempt #1
+11-Apr-2019 21:17:44.501 信息 [Download metadata thread] hudson.model.AsyncPeriodicWork$1.run Finished Download metadata. 54,497 ms
+11-Apr-2019 23:26:45.779 信息 [Thread-9] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+11-Apr-2019 23:26:46.022 信息 [Thread-9] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+11-Apr-2019 23:26:46.247 信息 [Thread-9] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-Apr-2019 23:26:46.272 信息 [Thread-9] jenkins.model.Jenkins.cleanUp Stopping Jenkins
+11-Apr-2019 23:26:46.347 信息 [Thread-9] jenkins.model.Jenkins$18.onAttained Started termination
+11-Apr-2019 23:26:46.389 信息 [Thread-9] jenkins.model.Jenkins$18.onAttained Completed termination
+11-Apr-2019 23:26:46.389 信息 [Thread-9] jenkins.model.Jenkins._cleanUpDisconnectComputers Starting node disconnection
+11-Apr-2019 23:26:47.401 信息 [Thread-9] jenkins.model.Jenkins._cleanUpShutdownPluginManager Stopping plugin manager
+11-Apr-2019 23:26:47.414 信息 [Thread-9] jenkins.model.Jenkins._cleanUpPersistQueue Persisting build queue
+11-Apr-2019 23:26:47.429 信息 [Thread-9] jenkins.model.Jenkins._cleanUpAwaitDisconnects Waiting for node disconnection completion
+11-Apr-2019 23:26:47.430 信息 [Thread-9] jenkins.model.Jenkins.cleanUp Jenkins stopped
+11-Apr-2019 23:26:47.434 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [SCMTrigger [#1]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.436 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [SCMTrigger [#2]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.437 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [SCMTrigger [#3]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.438 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [SCMTrigger [#4]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.440 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [SCMTrigger [#5]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.441 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [SCMTrigger [#6]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.442 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [SCMTrigger [#7]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.449 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [SCMTrigger [#8]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.450 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [SCMTrigger [#9]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.452 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [SCMTrigger [#10]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.453 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [Computer.threadPoolForRemoting [#3]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+ java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+ java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.454 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [Timeout.interruptions [#1]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.455 警告 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [Computer.threadPoolForRemoting [#4]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+ java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+ java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+11-Apr-2019 23:26:47.456 严重 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [jenkins] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@532d1f7b]) and a value of type [org.acegisecurity.context.SecurityContextImpl] (value [org.acegisecurity.context.SecurityContextImpl@ffffffff: Null authentication]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+11-Apr-2019 23:26:47.457 严重 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [jenkins] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@532d1f7b]) and a value of type [org.acegisecurity.context.SecurityContextImpl] (value [org.acegisecurity.context.SecurityContextImpl@ffffffff: Null authentication]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+11-Apr-2019 23:26:47.463 严重 [Thread-9] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [jenkins] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@532d1f7b]) and a value of type [org.acegisecurity.context.SecurityContextImpl] (value [org.acegisecurity.context.SecurityContextImpl@ffffffff: Null authentication]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+11-Apr-2019 23:26:47.498 信息 [Thread-9] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+11-Apr-2019 23:26:47.501 信息 [Thread-9] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]

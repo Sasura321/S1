@@ -1,0 +1,37 @@
+[2019-03-24 13:30:41] [info]  [26372] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-03-24 13:30:41] [info]  [26372] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2019-03-24 13:30:41] [info]  [26372] Service 'Tomcat9' installed
+[2019-03-24 13:30:41] [info]  [26372] Commons Daemon procrun finished
+[2019-03-24 13:32:08] [info]  [ 5452] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-03-24 13:32:08] [info]  [ 5452] Running 'Tomcat9' Service...
+[2019-03-24 13:32:08] [info]  [24792] Starting service...
+[2019-03-24 13:32:10] [info]  [24792] Service started in 1379 ms.
+[2019-03-24 13:32:12] [info]  [ 5452] Run service finished.
+[2019-03-24 13:32:12] [info]  [ 5452] Commons Daemon procrun finished
+[2019-03-24 13:33:45] [info]  [17020] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-03-24 13:33:45] [info]  [17020] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2019-03-24 13:33:45] [error] [17020] 指定的服务已存在。
+[2019-03-24 13:33:45] [error] [17020] Failed installing 'Tomcat9' service
+[2019-03-24 13:33:45] [error] [17020] 指定的服务已存在。
+[2019-03-24 13:33:45] [error] [17020] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2019-03-24 13:33:45] [error] [17020] 指定的服务已存在。
+[2019-03-24 14:04:01] [info]  [  720] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-03-24 14:04:01] [info]  [  720] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2019-03-24 14:04:01] [error] [  720] 指定的服务已存在。
+[2019-03-24 14:04:01] [error] [  720] Failed installing 'Tomcat9' service
+[2019-03-24 14:04:01] [error] [  720] 指定的服务已存在。
+[2019-03-24 14:04:01] [error] [  720] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2019-03-24 14:04:01] [error] [  720] 指定的服务已存在。
+[2019-03-24 14:20:19] [info]  [22028] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-03-24 14:20:19] [info]  [22028] Debugging 'tomcat9' service...
+[2019-03-24 14:20:19] [info]  [22028] Starting service...
+[2019-03-24 14:20:20] [info]  [22028] Service started in 1365 ms.
+[2019-03-24 14:20:23] [info]  [22028] Debug service finished with exit code 0
+[2019-03-24 14:20:23] [info]  [22028] Commons Daemon procrun finished
+[2019-03-24 14:21:22] [info]  [22320] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-03-24 14:21:22] [info]  [22320] Debugging 'tomcat9' service...
+[2019-03-24 14:21:22] [info]  [22320] Starting service...
+[2019-03-24 14:21:23] [info]  [22320] Service started in 1317 ms.
+[2019-03-24 14:25:27] [info]  [11760] Console CTRL+CLOSE event signaled
+[2019-03-24 14:25:27] [info]  [11760] Stopping service...
+[2019-03-24 14:25:28] [info]  [11760] Service stop thread completed.
